@@ -1,0 +1,2 @@
+- Medidas de tendencia central: [[Semana1]] 
+- Teoria de graficas basicas: [[Semana 2]] 
