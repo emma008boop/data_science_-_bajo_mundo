@@ -16,6 +16,7 @@ Al hablar de esto se refiere a el ** Teorema del limite central **
 - 2: [[Sesgo]]
 - 3: [[Kurtosis]]
 - 4: [[outliers (Valores atípicos)]]
-- 
+- 5: [[seaborn.boxplot()]] en python 
+- 6: [[seaborn.histplot()]] en python
 
 

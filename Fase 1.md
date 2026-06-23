@@ -9,8 +9,8 @@
         - **Trading:** Calcular precio promedio de Bitcoin a 30 días y medir su volatilidad.
 
 - [ ] **Semana 2: Distribuciones de Probabilidad y Visualización**
-    - [x] **Qué estudiar:** Distribución Normal (Campana de Gauss), sesgo (skewness), curtosis y *outliers*.
-    - [ ] **En Python:** `seaborn.histplot()`, `seaborn.boxplot()`.
+    - [x] **Qué estudiar:** Distribución Normal (Campana de Gauss), sesgo (skewness), kurtosis y *outliers*.
+    - [x] **En Python:** `seaborn.histplot()`, `seaborn.boxplot()`.
     - [ ] **Aplicación Práctica:**
         - **Seguros:** Graficar edades de conductores (detectar sesgos o errores como 150 años).
         - **Trading:** Graficar rendimientos diarios de acciones para demostrar colas pesadas.

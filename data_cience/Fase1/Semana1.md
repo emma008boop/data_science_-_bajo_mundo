@@ -7,3 +7,6 @@ Las **medidas de tendencia central** son herramientas estadísticas que sirven p
 - [[Moda]]
 - [[Mediana]]
 - [[Media]]
+- [[IQR]]
+- [[Varianza]]
+- [[Desviacion estandar]]

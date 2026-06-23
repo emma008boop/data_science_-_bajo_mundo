@@ -18,3 +18,9 @@ Nota: Si no defines [[BIN (Los intervalos)]], Seaborn usa reglas automáticas co
 
 - 3. Conteo de frecuencias: Cuenta cuantos puntos de datos caen dentro de cada intervalo. la altura de cada barra representada este conteo (O la densidad/probabilidad, si cambias el parámetro stat)
 
+Para seaborn debemos usar la libreria mathplotlib ya que es dependencia de seaborn.
+
+![[Pasted image 20260622211758.png|631]]
+
+![[Pasted image 20260622211813.png]]
+
