@@ -8,3 +8,16 @@
 
 .DS_Store
 Thumbs.db
+PLAN.md
+
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
