@@ -17,6 +17,6 @@ Al hablar de esto se refiere a el ** Teorema del limite central **
 - 3: [[Kurtosis]]
 - 4: [[outliers (Valores atípicos)]]
 - 5: [[Funcionamiento de sqlite3]]
-- 
+- 6: [[seaborn.histplot()]]
 
 

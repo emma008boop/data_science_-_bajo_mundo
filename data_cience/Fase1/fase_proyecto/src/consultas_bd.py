@@ -1,8 +1,6 @@
-import seaborn as sns
-import matplotlib.pyplot as plt
+import sqlite3
+import os 
 import pandas as pd
-import sqlite3 
-import os
 
 def consultar_db():
 
@@ -90,14 +88,3 @@ def simular_e_inyectar_datos():
     conexion.commit()
     conexion.close()
 
-def calcular_variacion_estandar(lista):
-    sigma, cantidad_num = 0, len(lista)
-    promedio = sum(lista) / cantidad_num
-    for n in lista:
-        sigma += (n - promedio) ** 2
-    variacion_estandar = sigma / cantidad_num ** 0.5
-        
-
-
-if __name__ == "__main__":
-    consultar_db()

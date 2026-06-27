@@ -6,3 +6,5 @@ un valor atipico es un punto de datos que se desvia tanto de los demas registros
 	- Errores de entrada o bugs: Alguien introduce mal un dato o alo falla
 	- Eventos rarisimos pero reales
 	- Fraude o ataques
+
+Los outliers en un boxpolot son los datos que sobrepasan los bigotitos

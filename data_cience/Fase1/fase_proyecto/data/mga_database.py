@@ -49,7 +49,7 @@ def inicializar_bd():
 
     conexion.commit()
     conexion.close()
-    print("✅ ¡Estructura de MGA creada con éxito!")
+    print("¡Estructura de MGA creada con éxito!")
 
 if __name__ == "__main__":
     inicializar_bd()

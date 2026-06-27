@@ -1,4 +1,4 @@
-# 📈 Plan de Estudios: Data Science, Seguros & Trading
+# Plan de Estudios: Data Science, Seguros & Trading
 
 ## MES 1: Estadística Descriptiva y Fundamentos de Datos
 - [x] **Semana 1: Medidas de Tendencia Central y Dispersión**
@@ -8,9 +8,9 @@
         - **Seguros:** Calcular la prima promedio de camiones y entender su dispersión.
         - **Trading:** Calcular precio promedio de Bitcoin a 30 días y medir su volatilidad.
 
-- [ ] **Semana 2: Distribuciones de Probabilidad y Visualización**
+- [x] **Semana 2: Distribuciones de Probabilidad y Visualización**
     - [x] **Qué estudiar:** Distribución Normal (Campana de Gauss), sesgo (skewness), curtosis y *outliers*.
-    - [ ] **En Python:** `seaborn.histplot()`, `seaborn.boxplot()`.
+    - [x] **En Python:** `seaborn.histplot()`, `seaborn.boxplot()`.
     - [ ] **Aplicación Práctica:**
         - **Seguros:** Graficar edades de conductores (detectar sesgos o errores como 150 años).
         - **Trading:** Graficar rendimientos diarios de acciones para demostrar colas pesadas.
@@ -30,7 +30,7 @@
 
 ---
 
-## 📈 MES 2: Probabilidad Avanzada e Inferencia Estadística
+## MES 2: Probabilidad Avanzada e Inferencia Estadística
 - [ ] **Semana 5: Probabilidad Condicional y Teorema de Bayes**
     - [ ] **Qué estudiar:** Probabilidad condicional $P(A|B)$ y Teorema de Bayes.
     - [ ] **Aplicación Práctica:**
@@ -58,7 +58,7 @@
 
 ---
 
-## 🧪 MES 3: Pruebas de Hipótesis (Tomando decisiones con datos)
+## MES 3: Pruebas de Hipótesis (Tomando decisiones con datos)
 - [ ] **Semana 9: Fundamentos de Pruebas de Hipótesis**
     - [ ] **Qué estudiar:** Hipótesis Nula ($H_0$) e Alternativa ($H_1$), Errores Tipo I y II, y el *p-value*.
     - [ ] **Aplicación Práctica:**
@@ -84,7 +84,7 @@
 
 ---
 
-## 📐 MES 4: Álgebra Lineal y Regresión Lineal (El inicio de la predicción)
+## MES 4: Álgebra Lineal y Regresión Lineal (El inicio de la predicción)
 - [ ] **Semana 13: Vectores y Matrices en Data Science**
     - [ ] **Qué estudiar:** Operaciones con matrices (Suma, multiplicación, transposición). Representación de datos.
     - [ ] **En Python:** Operaciones matriciales avanzadas usando `NumPy`.
@@ -111,7 +111,7 @@
 
 ---
 
-## 🤖 MES 5: Introducción al Machine Learning y Modelos de Clasificación
+##  MES 5: Introducción al Machine Learning y Modelos de Clasificación
 - [ ] **Semana 17: Regresión Logística (La matemática del Sí o No)**
     - [ ] **Qué estudiar:** Función Sigmoide y probabilidades Log-Odds. Predicción de pertenencia a categorías.
     - [ ] **En Python:** `sklearn.linear_model.LogisticRegression`.
