@@ -11,19 +11,19 @@
 - [x] **Semana 2: Distribuciones de Probabilidad y Visualización**
     - [x] **Qué estudiar:** Distribución Normal (Campana de Gauss), sesgo (skewness), curtosis y *outliers*.
     - [x] **En Python:** `seaborn.histplot()`, `seaborn.boxplot()`.
-    - [ ] **Aplicación Práctica:**
+    - [x] **Aplicación Práctica:**
         - **Seguros:** Graficar edades de conductores (detectar sesgos o errores como 150 años).
         - **Trading:** Graficar rendimientos diarios de acciones para demostrar colas pesadas.
 
 - [ ] **Semana 3: Correlación y Covarianza**
-    - [ ] **Qué estudiar:** Coeficiente de correlación de Pearson y Spearman. Diferencia entre correlación y causalidad.
+    - [x] **Qué estudiar:** Coeficiente de correlación de Pearson y Spearman. Diferencia entre correlación y causalidad.
     - [ ] **En Python:** `pandas.DataFrame.corr()`, `seaborn.heatmap()`.
     - [ ] **Aplicación Práctica:**
         - **Seguros:** Matriz de correlación (¿A mayor peso del camión, mayor costo?).
         - **Trading:** Analizar correlación entre el precio del Oro y Bitcoin.
 
 - [ ] **Semana 4: SQL + Probabilidad Básica**
-    - [x] **Qué estudiar:** Espacio muestral, eventos independientes y dependientes. Consultas SQL básicas (`SELECT`, `WHERE`, `GROUP BY`).
+    - [ ] **Qué estudiar:** Espacio muestral, eventos independientes y dependientes. Consultas SQL básicas (`SELECT`, `WHERE`, `GROUP BY`).
     - [ ] **En Python:** Conectar Python a SQL usando `sqlite3` o `SQLAlchemy`.
     - [ ] **Aplicación Práctica:**
         - **Seguros:** Extraer base de datos vía SQL y calcular probabilidad simple de ubicación del cliente (ej. Texas vs California).
