@@ -1,0 +1,1 @@
+[[Funcionamiento de sqlite3]]

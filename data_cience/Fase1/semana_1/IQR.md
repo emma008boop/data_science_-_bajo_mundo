@@ -1,0 +1,1 @@
+[[BIN (Los intervalos)]]

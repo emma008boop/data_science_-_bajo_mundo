@@ -17,7 +17,7 @@
 
 - [ ] **Semana 3: Correlación y Covarianza**
     - [x] **Qué estudiar:** Coeficiente de correlación de Pearson y Spearman. Diferencia entre correlación y causalidad.
-    - [ ] **En Python:** `pandas.DataFrame.corr()`, `seaborn.heatmap()`.
+    - [x] **En Python:** `pandas.DataFrame.corr()`, `seaborn.heatmap()`.
     - [ ] **Aplicación Práctica:**
         - **Seguros:** Matriz de correlación (¿A mayor peso del camión, mayor costo?).
         - **Trading:** Analizar correlación entre el precio del Oro y Bitcoin.

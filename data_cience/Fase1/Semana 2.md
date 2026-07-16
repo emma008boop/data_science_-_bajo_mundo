@@ -18,5 +18,6 @@ Al hablar de esto se refiere a el ** Teorema del limite central **
 - 4: [[outliers (Valores atípicos)]]
 - 5: [[Funcionamiento de sqlite3]]
 - 6: [[seaborn.histplot()]]
+- 7:  [[seaborn.boxplot()]]
 
 
