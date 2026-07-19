@@ -1,0 +1,1 @@
+Prueba de participacion. Los usuarios bloquean sus propias monedas como garantia. La red elige a azar a uno de ellos para validar las transacciones. Si intenta hacer trampa, pierde sus monedas guardadas

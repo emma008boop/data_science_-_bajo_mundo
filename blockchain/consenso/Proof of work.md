@@ -1,0 +1,1 @@
+Las computadoras compiten resolviendo temas matematicos muy complejos que consumen mucha energia. El que gana tiene el derecho de registrar las transacciones
