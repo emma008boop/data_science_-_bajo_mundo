@@ -1,0 +1,1 @@
+#kbps son 10,000 bits por segundo

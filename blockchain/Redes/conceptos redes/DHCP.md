@@ -1,0 +1,1 @@
+#DHCP Dinamic host configuration protocol. Es la forma en la que el router asigna las direcciones #IP 
