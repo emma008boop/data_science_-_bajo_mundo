@@ -7,3 +7,7 @@ Al igual que en rust, se definen por su tamaño de bits, no existen numeros con 
 
 ![[Pasted image 20260718103231.png]]
 
+En solidity no existen los floa. Todo el manejo de tokens o Ether se hace usando unidades enteras perqueñas. Por ejemplo, un Ether equivale a $10^{18}$ #Weis (La unidad minima)
+
+
+

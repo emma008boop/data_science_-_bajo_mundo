@@ -1,22 +1,51 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"blockchain/Redes/conceptos redes\"",
+      "color": {
+        "a": 1,
+        "rgb": 8246268
+      }
+    },
+    {
+      "query": "path:\"data_cience/Fase1/semana_2\"",
+      "color": {
+        "a": 1,
+        "rgb": 3462041
+      }
+    },
+    {
+      "query": "path:\"blockchain\"",
+      "color": {
+        "a": 1,
+        "rgb": 16498468
+      }
+    },
+    {
+      "query": "path:\"data_cience/Fase1\"",
+      "color": {
+        "a": 1,
+        "rgb": 16020150
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.7890625,
-  "lineSizeMultiplier": 2.42239583333333,
+  "textFadeMultiplier": 1.2,
+  "nodeSizeMultiplier": 2.4,
+  "lineSizeMultiplier": 0.3,
   "collapse-forces": false,
-  "centerStrength": 0.416666666666667,
-  "repelStrength": 10.8333333333333,
-  "linkStrength": 0.447916666666667,
-  "linkDistance": 30,
-  "scale": 0.15074426239385413,
+  "centerStrength": 0.05,
+  "repelStrength": 18,
+  "linkStrength": 0.2,
+  "linkDistance": 140,
+  "scale": 0.017578125,
   "close": true
 }
